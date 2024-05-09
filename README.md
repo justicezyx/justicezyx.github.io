@@ -12,5 +12,7 @@
     A LLM platform on Kubernetes
 
 ## Contact
-* [Email](mailto:justicezyx@gmail.com)
+* Email: justicezyx@gmail.com
 * [Calendly](https://calendly.com/yaxiong/30min)
+
+[Edit](https://github.com/justicezyx/justicezyx.github.io/blob/main/README.md) this page.
