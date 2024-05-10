@@ -10,9 +10,11 @@
     An Observability data collector using eBPF+WASM to enable universal data collection across application and inside Linux Kernel.
   * [NascentCore/3k](https://github.com/NascentCore/3k):
     A LLM platform on Kubernetes
+  * [justicezyx/puzzles](https://github.com/justicezyx/puzzles):
+    A collection programming puzzles and interview problem solutions.
 
 ## Contact
-* Email: justicezyx@gmail.com
-* [Calendly](https://calendly.com/yaxiong/30min)
+* [justicezyx@gmail.com](mailto:justicezyx@gmail.com)
+* [30 minutes meeting with Calendly](https://calendly.com/yaxiong/30min)
 
 [Edit](https://github.com/justicezyx/justicezyx.github.io/blob/main/README.md) this page.
