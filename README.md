@@ -7,11 +7,11 @@
   * [yzhao-1012](https://github.com/yzhao1012)
 * GitHub projects:
   * [tricorder-observability/starship](https://github.com/tricorder-observability/starship):
-    An Observability data collector using eBPF+WASM to enable universal data collection across application and inside Linux Kernel.
+    An Observability data collector using eBPF+WASM to enable universal data collection plugins written in your favariote language.
   * [NascentCore/3k](https://github.com/NascentCore/3k):
-    A LLM platform on Kubernetes
+    A LLM training, fine-tune, and inference platform on Kubernetes.
   * [justicezyx/puzzles](https://github.com/justicezyx/puzzles):
-    A collection programming puzzles and interview problem solutions.
+    A collection of programming puzzles and interview problem solutions.
 
 ## Contact
 * [justicezyx@gmail.com](mailto:justicezyx@gmail.com)
