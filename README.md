@@ -13,7 +13,7 @@
   * I invest in **engineer founders**
   * Deal size < 50K USD
   * Advise on how to reach PMF
-    * Primarily: technical architecture, team building, business development, culture
+    * Primarily: engineering workflow, software architecture, team building, business development, culture, fundraising
 
 ## Links
 * GitHub accounts (I have multiple GitHub accounts created over the years):
