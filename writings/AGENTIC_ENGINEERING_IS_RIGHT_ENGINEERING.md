@@ -22,6 +22,8 @@ Solving problem in the most intuitive manner
 Because we no longer writing code.
 All anti patterns because explicit anti-habits in engineering thinking.
 
+### More easily loose focus and flow
+
 Cannot stand the slow agent and walls of thinking/action traces, switch to a different task.
 Or worse, switch to reading X...
 
@@ -34,6 +36,19 @@ To cope with this, engineers starts to ignore generated code.
 And their mind cannot maintain focus while not getting much signals.
 
 Their brain then starts wandering...
+
+The way you work with coding agent is to always keep it in a state where its output matches your mental model.
+Just like you want the Intern to do something for you.
+The work results are required, and you demand certain degree of quality, you also want it to be finished within given timeline, etc.
+
+But your requests, does not necessarily translate into the desired results as you imagined.
+
+### Micro-instructions
+
+Seems agents cannot produce the code I desire.
+So I'll instruct the agent to write `foo` with `pydantic model` as input.
+
+Then instructions blow off quickly.
 
 ## References
 
