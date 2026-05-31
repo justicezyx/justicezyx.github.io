@@ -16,3 +16,7 @@ Structure:
 ## What is **right** engineering
 
 Solving problem in the most intuitive manner
+
+## References
+
+[Zig banned AI](https://ziglang.org/code-of-conduct/), [YouTube interview](https://www.youtube.com/watch?v=iqddnwKF8HQ)
