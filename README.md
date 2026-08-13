@@ -30,6 +30,6 @@
 
 ## Contact
 * [justicezyx@gmail.com](mailto:justicezyx@gmail.com)
-* [Calendly for 30 minutes meeting](https://calendly.com/yaxiong/30min)
+* [Calendly for 30 minutes meeting](https://calendly.com/justicezyx/30min)
 
 [Edit](https://github.com/justicezyx/justicezyx.github.io/blob/main/README.md) this page.
